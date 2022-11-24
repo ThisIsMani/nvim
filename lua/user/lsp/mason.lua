@@ -6,6 +6,8 @@ local servers = {
 	"pyright",
 	-- "bashls",
 	"jsonls",
+  "jdtls",
+  -- "stylua"
 	-- "yamlls",
 }
 
